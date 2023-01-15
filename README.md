@@ -4,7 +4,7 @@
 
 The original repository from Datica, along with its other websites and domains are no longer online, but I am retaining its references where appropriate for crediting.
 
-—Ian Mckenzie, Onyx's MVP developer
+—Ian McKenzie, Onyx's MVP developer
 
 ## Introduction
 
