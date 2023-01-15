@@ -1,0 +1,46 @@
+@media handheld, only screen and (max-width: 1160px){
+	.masthead{padding: 0 1rem;}
+	.content{padding: 2rem 1rem;}
+}
+@media handheld, only screen and (max-width: 767px){
+	.grid{
+		width: 100%;
+		min-width: 0;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	[class*='col-']{
+		width: auto;
+		float: none;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+@media handheld, only screen and (max-width: 520px){
+	.content{
+		h2,
+		h1{
+			line-height: 1.5;
+			&:after{
+				color: transparent;
+				background-color: transparent;
+				border: 1px solid transparent;
+				content: " ";
+			}
+		}
+		h2{
+			&:after{content: " ";}
+		}
+	}
+}
+@media print {
+	.no-print, .no-print * {
+		display: none !important;
+	}
+}
