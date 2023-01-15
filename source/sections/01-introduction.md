@@ -51,7 +51,7 @@ Onyx, at its sole discretion, shares audit reports, including its HITRUST report
 
 The following process is used to request audit reports:
 
-1. Email is sent to compliance-reports@onyx.supplies. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to contact@onyx.supplies. In the email, please specify the type of report being requested and any required timelines for the report.
 2. Onyx staff will log an issue with the details of the request into the Onyx Quality Management System. The Onyx Quality Management System is used to track requests' status and outcomes.
 3. Onyx will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Onyx will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Onyx staff will move the issue to "Under Review".

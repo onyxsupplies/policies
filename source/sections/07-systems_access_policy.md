@@ -119,7 +119,7 @@ All workstations at Onyx are company owned, and all are laptop Apple products ru
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 7. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Onyx Medical Supplies, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.onyx.supplies) and have completed this training (https://training.onyx.supplies/). Please contact us if you have problems with this - privacy@onyx.supplies.*
+9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Onyx Medical Supplies, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.onyx.supplies) and have completed this training (https://training.onyx.supplies/). Please contact us if you have problems with this - contact@onyx.supplies.*
 
 ## 7.9 Wireless Access Use
 

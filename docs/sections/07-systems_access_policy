@@ -160,7 +160,7 @@
 <li>Users may not misrepresent, obscure, suppress, or replace another user&rsquo;s identity in transmitted or stored messages.</li>
 <li>Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.</li>
 <li>All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.</li>
-<li>All workstations are to have the following messages added to the lock screen and login screen: <em>This computer is owned by Onyx Medical Supplies, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.onyx.supplies) and have completed this training (https://training.onyx.supplies/). Please contact us if you have problems with this - privacy@onyx.supplies.</em></li>
+<li>All workstations are to have the following messages added to the lock screen and login screen: <em>This computer is owned by Onyx Medical Supplies, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.onyx.supplies) and have completed this training (https://training.onyx.supplies/). Please contact us if you have problems with this - contact@onyx.supplies.</em></li>
 </ol>
 
 <h2 id="7-9-wireless-access-use">7.9 Wireless Access Use</h2>

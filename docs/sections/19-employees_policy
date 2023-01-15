@@ -46,7 +46,7 @@
 <li>Current Onyx training is hosted at <a href="https://training.onyx.supplies/">training.onyx.supplies</a>.</li>
 </ul></li>
 <li>All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.</li>
-<li>All Onyx-purchased and -owned computers are to display this message at login and when the computer is unlocked: <em>This computer is owned by Onyx Medical Supplies, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.onyx.supplies) and have completed this training (https://training.onyx.supplies). Please contact us if you have problems with this - privacy@onyx.supplies</em>.</li>
+<li>All Onyx-purchased and -owned computers are to display this message at login and when the computer is unlocked: <em>This computer is owned by Onyx Medical Supplies, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.onyx.supplies) and have completed this training (https://training.onyx.supplies). Please contact us if you have problems with this - contact@onyx.supplies</em>.</li>
 <li>Employees may only use Onyx-purchased and -owned workstations for accessing production systems with access to ePHI data.
 
 <ul>
