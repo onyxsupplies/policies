@@ -1,8 +1,0 @@
-<header class="main-header">
-    <div class="grid">
-        <div class="logo"><img src="/assets/img/logo.svg" alt="Onyx Logo"></div>
-        <nav>
-            <a href="//onyx.supplies">onyx.supplies</a>
-        </nav>
-    </div>
-</header>
